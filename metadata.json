@@ -1,0 +1,7 @@
+{
+  "name": "Sonic Grid Vision",
+  "description": "An interactive augmented reality experience where hand gestures trigger sonic and visual fireworks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
